@@ -1,0 +1,2 @@
+#!/bin/bash
+mkgir /tmp/my_first_directory
