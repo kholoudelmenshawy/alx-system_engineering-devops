@@ -1,0 +1,2 @@
+#!/bin/bash
+chowb --from=guillaume betty
