@@ -1,2 +1,2 @@
 #!/bin/bash
-chowb --from=guillaume betty
+chown --from=guillaume betty
